@@ -1,9 +1,9 @@
 <?php
 
-namespace Froiden\LaravelInstaller\Controllers;
+namespace ZAEIMTech\LaravelInstaller\Controllers;
 
 use Illuminate\Routing\Controller;
-use Froiden\LaravelInstaller\Helpers\RequirementsChecker;
+use ZAEIMTech\LaravelInstaller\Helpers\RequirementsChecker;
 
 class RequirementsController extends Controller
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace Froiden\LaravelInstaller\Request;
+namespace ZAEIMTech\LaravelInstaller\Request;
 
 
 

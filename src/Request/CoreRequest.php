@@ -1,8 +1,8 @@
 <?php
 
-    namespace Froiden\LaravelInstaller\Request;
+    namespace ZAEIMTech\LaravelInstaller\Request;
 
-use Froiden\LaravelInstaller\Helpers\Reply;
+use ZAEIMTech\LaravelInstaller\Helpers\Reply;
 use Illuminate\Foundation\Http\FormRequest;
 
 

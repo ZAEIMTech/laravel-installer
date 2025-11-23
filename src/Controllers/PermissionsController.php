@@ -1,10 +1,10 @@
 <?php
 
-namespace Froiden\LaravelInstaller\Controllers;
+namespace ZAEIMTech\LaravelInstaller\Controllers;
 
 use App\Http\Requests;
 use Illuminate\Routing\Controller;
-use Froiden\LaravelInstaller\Helpers\PermissionsChecker;
+use ZAEIMTech\LaravelInstaller\Helpers\PermissionsChecker;
 
 class PermissionsController extends Controller
 {

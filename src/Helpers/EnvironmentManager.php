@@ -1,6 +1,6 @@
 <?php
 
-namespace Froiden\LaravelInstaller\Helpers;
+namespace ZAEIMTech\LaravelInstaller\Helpers;
 
 use Exception;
 use Illuminate\Http\Request;

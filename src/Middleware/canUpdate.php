@@ -1,10 +1,10 @@
 <?php
 
-    namespace Froiden\LaravelInstaller\Middleware;
+    namespace ZAEIMTech\LaravelInstaller\Middleware;
 
     use Closure;
-    use Froiden\LaravelInstaller\Helpers\MigrationsHelper;
-    use Froiden\LaravelInstaller\Middleware\canInstall;
+    use ZAEIMTech\LaravelInstaller\Helpers\MigrationsHelper;
+    use ZAEIMTech\LaravelInstaller\Middleware\canInstall;
 
     class canUpdate
     {

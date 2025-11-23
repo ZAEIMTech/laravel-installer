@@ -1,10 +1,10 @@
 <?php
 
-namespace Froiden\LaravelInstaller\Providers;
+namespace ZAEIMTech\LaravelInstaller\Providers;
 
 use Illuminate\Routing\Router;
 use Illuminate\Support\ServiceProvider;
-use Froiden\LaravelInstaller\Middleware\canInstall;
+use ZAEIMTech\LaravelInstaller\Middleware\canInstall;
 
 class LaravelInstallerServiceProvider extends ServiceProvider
 {

@@ -1,9 +1,9 @@
 <?php
 
-namespace Froiden\LaravelInstaller\Controllers;
+namespace ZAEIMTech\LaravelInstaller\Controllers;
 
 use Illuminate\Routing\Controller;
-use Froiden\LaravelInstaller\Helpers\DatabaseManager;
+use ZAEIMTech\LaravelInstaller\Helpers\DatabaseManager;
 
 class DatabaseController extends Controller
 {

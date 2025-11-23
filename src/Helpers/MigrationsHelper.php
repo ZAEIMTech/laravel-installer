@@ -1,11 +1,11 @@
 <?php
 
-namespace Froiden\LaravelInstaller\Helpers;
+namespace ZAEIMTech\LaravelInstaller\Helpers;
 use Illuminate\Support\Facades\DB;
 
 /**
  * Class MigrationsHelper
- * @package Froiden\LaravelInstaller\Helpers
+ * @package ZAEIMTech\LaravelInstaller\Helpers
  */
 
 trait MigrationsHelper

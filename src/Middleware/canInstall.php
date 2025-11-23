@@ -1,13 +1,13 @@
 <?php
 
-namespace Froiden\LaravelInstaller\Middleware;
+namespace ZAEIMTech\LaravelInstaller\Middleware;
 
 use Closure;
 use DB;
 
 /**
  * Class canInstall
- * @package Froiden\LaravelInstaller\Middleware
+ * @package ZAEIMTech\LaravelInstaller\Middleware
  */
 
 class canInstall

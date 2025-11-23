@@ -1,6 +1,6 @@
 <?php
 
-namespace Froiden\LaravelInstaller\Controllers;
+namespace ZAEIMTech\LaravelInstaller\Controllers;
 
 use Illuminate\Routing\Controller;
 
